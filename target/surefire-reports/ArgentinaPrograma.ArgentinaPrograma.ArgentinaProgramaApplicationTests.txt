@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: ArgentinaPrograma.ArgentinaPrograma.ArgentinaProgramaApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.14 s - in ArgentinaPrograma.ArgentinaPrograma.ArgentinaProgramaApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 20.983 s - in ArgentinaPrograma.ArgentinaPrograma.ArgentinaProgramaApplicationTests
